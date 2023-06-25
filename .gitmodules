@@ -1,0 +1,12 @@
+[submodule "project-1: github-workflow/project-1: github-workflow/artifactory"]
+	path = project-1: github-workflow/project-1: github-workflow/artifactory
+	url = git@github.com:swetank01/artifactory.git
+[submodule "project-1: github-workflow/project-1: github-workflow/bobthebuilder"]
+	path = project-1: github-workflow/project-1: github-workflow/bobthebuilder
+	url = git@github.com:swetank01/bobthebuilder.git
+[submodule "project-1: github-workflow/bobthebuilder"]
+	path = project-1: github-workflow/bobthebuilder
+	url = git@github.com:swetank01/bobthebuilder.git
+[submodule "project-1: github-workflow/artifactory"]
+	path = project-1: github-workflow/artifactory
+	url = git@github.com:swetank01/artifactory.git
